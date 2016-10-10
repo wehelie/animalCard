@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+/* add your CSS here */
+
+body {
+    
+background-color: black;
+margin: 100px;
+    padd: 5px;
+}
+table { text-align: center;
+    border: 1px solid #e4e4e4;
+box-shadow: 10px 10px 5px #e4e4e4;
+border-spacing: 13px;
+background-color: white;
+}
+td {border:1px solid #e4e4e4;
+}
+div {
+    background-color: white;
+}
+
+img {
+width:300px;
+box-shadow: 10px 10px 4px #e4e4e4;
+} 
+.test {font-size: 33px;
+}
+p {
+color: black;
+text-align: left
+}
+</style>
+</head>
+<body>
+
+<table style="width:100%">
+  <tr>
+    <td class="test"> Tiger
+<div><br><img src="http://www.mentaltoughnessinc.com/wp-content/uploads/2015/05/bigstock-White-Tiger-4929068-300x300.jpg" alt="Photo of Tiger">
+  </div>
+  </tr>
+  <tr>
+    <td><div>
+   <!-- your favorite animal's interesting fact goes here -->
+   <p><em>The tiger is the biggest species of the cat family. Tigers can reach a length of up to 3.3 metres (11 feet) and weigh as much as 300 kilograms (660 pounds). </em><br><br>
+       <b>Scientific Name</b><br>
+       <b>Average Lenght</b><br>
+       <b>Aaverage Life Span</b><br>
+       <b>Habiat</b><br>
+       <p>Write a brief description about your favorite animal...</p></p>
+        </div>
+ </td>
+ 
+  </tr>
+
+</table>
+
+</body>
+</html>
